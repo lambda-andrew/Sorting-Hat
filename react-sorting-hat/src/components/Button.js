@@ -5,7 +5,7 @@ const Button = () => {
   return (
     <div>
       
-    {/* <input/> */}
+
     <button>sort</button>
     </div>
   )

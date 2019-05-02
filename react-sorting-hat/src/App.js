@@ -22,6 +22,7 @@ class App extends Component {
           To get started, press sort
         </p>
         <div>
+          <question/>
           <div>
           <Button/>
             <img src={crow}/>
